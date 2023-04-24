@@ -1,0 +1,39 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+
+.container{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    margin: 100px auto;
+    padding: 12.5px;
+    text-align: center;
+
+}
+
+img{
+    width: 300px;
+    border-radius: 20px;
+}
+
+body{
+    background-color: rgb(176, 199, 218);
+}
+
+.first{
+    font-size: 1.2rem;
+    font-weight: 900;
+    padding: 0 10px;
+
+}
+
+.second{
+    font-size: 1rem;
+    font-weight: 300;
+    color: slategrey;
+    padding: 0 10px;
+}
